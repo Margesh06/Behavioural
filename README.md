@@ -1,9 +1,10 @@
 **YouTube Notification System**
+
 This project demonstrates the use of the Observer Design Pattern and Strategy Pattern in TypeScript.
 
 **Features**
-**  Observer Pattern**: Notifies subscribers when a new video is uploaded.
- ** Strategy Pattern**: Allows sorting of video notifications using different strategies.
+ **Observer Pattern**: Notifies subscribers when a new video is uploaded.
+ **Strategy Pattern**: Allows sorting of video notifications using different strategies.
 
 **Installation:**
 
