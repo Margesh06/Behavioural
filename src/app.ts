@@ -58,7 +58,7 @@ class Subscriber implements IObserver {
     update(video: string): void {
         this.notifications.push(video);
         this.renderNotifications();
-        alert(`New video uploaded: ${video}`);
+        alert(`New video: ${video}`);
     }
 
     renderNotifications(): void {
