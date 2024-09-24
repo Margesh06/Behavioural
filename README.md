@@ -104,13 +104,12 @@ This system effectively demonstrates the use of both the **Observer Pattern** an
 
 ## Snapshots
 
-![image](https://github.com/user-attachments/assets/926ce6ed-27e4-4bdf-9512-8853c7d2aebe)
+![image](https://github.com/user-attachments/assets/067aef99-083a-4f05-acfb-f0415aba3007)
 
-![image](https://github.com/user-attachments/assets/0f43285f-2a09-48b6-b9a2-fe4aa240e4fa)
+![image](https://github.com/user-attachments/assets/27ae8e66-248e-4c27-8eb2-5fd81de53d2b)
 
-![image](https://github.com/user-attachments/assets/f73fe068-056b-46f5-a0a3-a1bc53914468)
+![image](https://github.com/user-attachments/assets/12b00edb-3ac2-491a-9d63-b9b5161343c3)
 
-![image](https://github.com/user-attachments/assets/0b79b1db-9090-4003-a132-7d9d490882f2)
 
 
 
