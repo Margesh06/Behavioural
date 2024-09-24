@@ -1,4 +1,4 @@
-# YouTube
+# YouTube  - Observer and Strategy Design Pattern
 
 This project demonstrates a **YouTube Channel Subscription System** using design patterns. The system allows users to:
 
